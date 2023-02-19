@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi! 👋 I'm Andhika</h1>
 
-<!--
-**AndhikaGG/AndhikaGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://instagram.com/NevtBotz"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+14+Years+old.;studying+to+be+a+programmer." alt="Nevt">
+</p>
+  
+![My card name](https://cardivo.vercel.app/api?name=AndhikaGG&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/bcfb05acd4204ec4c9b59.jpg)
 
-Here are some ideas to get you started:
+------
+### Connect with me ☎️
+<p align="center">
+  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
+</p>
+<p align="center">
+  <a href="https://instagram.com/AndhiikaGG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://chat.whatsapp.com/HaRSL0A0SFl65kYJ53K4Wv"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/AndhikaGG"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+                                                                                                                                       
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/NevtBotz"><img src="https://github-readme-stats.vercel.app/api?username=AndhikaGG&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/NevtBotz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaGG&theme=radical&layout=compact"></a></p>
