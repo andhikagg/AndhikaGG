@@ -4,7 +4,7 @@
   <a href="https://instagram.com/NevtBotz"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+14+Years+old.;studying+to+be+a+programmer." alt="Nevt">
 </p>
   
-![My card name](https://cardivo.vercel.app/api?name=AndhikaGG&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/bcfb05acd4204ec4c9b59.jpg)
+![My card name](https://cardivo.vercel.app/api?name=AndhikaGG&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78576587?v=4)
 
 ------
 ### Connect with me ☎️
