@@ -9,7 +9,7 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
+  <img src="" />
 </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
