@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone!</h1>
   
-![My card name](https://cardivo.vercel.app/api?name=AndhikaGG&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78576587?v=4)
+![My card name](https://cardivo.vercel.app/api?name=AndhikaGG&description=Hi,%20Welcome%20To%20My%20Profile%20❤&backgroundColor=%23C1C1C1&fontColor=%23019393&github=andhikagg&image=https://avatars.githubusercontent.com/u/78576587?v=4&colorPattern=%23C4C4C4&pattern=ticTacToe)
 ---
 
 <p align="center">
