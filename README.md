@@ -9,7 +9,7 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <img src="https://files.catbox.moe/otyazd.jpg" />
+  <img src="https://files.catbox.moe/otyazd.jpg" alt="banner" width="100" height="100"/>
 </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
