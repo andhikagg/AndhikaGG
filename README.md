@@ -22,11 +22,12 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"></br>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-   </p>
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+<h2></h2>
 <p align="center">
   <a href="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@andhikagg?theme=rule34" alt="visitor"></a>
 </p>
