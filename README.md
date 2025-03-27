@@ -28,6 +28,6 @@
    </p>
 
 <p align="center">
-  <img src="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@andhikagg?theme=gelbooru" alt="visitor">
+  <a href="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@andhikagg?theme=gelbooru" alt="visitor"></a>
 </p>
 
