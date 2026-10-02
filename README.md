@@ -7,26 +7,28 @@
 </p>
 
 <p align="center">
-  Hi 👋, my name is <b>Andhika</b>. a beginner with minimal coding knowledge
+  Welcome to my profile 👋, my name is <b>Andhika</b>!
 </p>
 
 <h2 align="center">☎️ Connect with me</h2>
 <p align="center">
-  <!--img src="https://files.catbox.moe/otyazd.jpg" alt="banner" width="200" height="200"-->
+  <!--img src="https://files.catbox.moe/otyazd.jpg" alt="banner" width="30%"-->
 </p>
 <p align="center">
-  <!--a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/--> 
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/andhikagg"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" />
-  <a href="mailto:andhikagg@proton.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white" />
-  <a href="https://github.com/AndhikaGG"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://www.instagram.com/andhika.gg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> </a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> </a>
+  <a href="https://t.me/andhikagg"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" /> </a>
+  <a href="mailto:m.andhika.aprianto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white" /> </a>
+  <a href="https://github.com/AndhikaGG"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> </a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <a href="#?HII!!"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/andhikagg?cardType=level-alternate&theme=nightowl&preferLogin=true&Title=37FFF3&Border=DD00B0&Text=7185DD&Ring=4ADDB8"></a>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/andhikagg?cardType=level-alternate&theme=nightowl&preferLogin=true&Title=37FFF3&Border=DD00B0&Text=7185DD&Ring=4ADDB8">
   <!--img src="https://github-readme-stats.vercel.app/api?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"-->
   <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"-->
+  <br>
+  <img src="https://raw.githubusercontent.com/andhikagg/AndhikaGG/refs/heads/main/github-metrics.svg" width="40%" alt="metric">
 </p>
 <!--h2></h2-->
 <p align="center">
